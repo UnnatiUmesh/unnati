@@ -27,7 +27,7 @@ export default function ContactSection() {
         <div className="flex-1 space-y-6">
           <h3 className="text-2xl font-semibold">Get in touch</h3>
           <p className='txet-justify'>
-            I'd love to hear from you! Whether it's a project, opportunity, or just a friendly hello — feel free to drop a message.
+            I&rsquo;d love to hear from you! Whether it&rsquo;s a project, opportunity, or just a friendly hello — feel free to drop a message.
           </p>
 
           <div className="space-y-4">
