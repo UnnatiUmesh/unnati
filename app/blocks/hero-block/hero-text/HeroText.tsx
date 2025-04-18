@@ -25,7 +25,7 @@ const HeroText = () => {
   return (
     <div className="flex flex-col justify-center max-w-2xl">
       <h1 className="text-5xl font-bold mb-4">
-        Hello, I'm <br />
+        Hello, I&rsquo;m <br />
         <span className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-pink-500">
           Unnati Umesh Kulkarni
         </span>
