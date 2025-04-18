@@ -1,7 +1,7 @@
 // herotext.tsx
 "use client";
 import React, { useEffect, useState } from "react";
-import { Github, Linkedin, X } from "lucide-react";
+import { Github, Linkedin} from "lucide-react";
 
 import { Mail, Download } from "lucide-react";
 
