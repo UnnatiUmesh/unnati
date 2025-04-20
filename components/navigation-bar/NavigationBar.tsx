@@ -29,6 +29,7 @@ const NavigationBar = (props: { className?: string }) => {
       <nav className="flex flex-row gap-8 items-center">
           <Link href="#">Home</Link>
           <Link href="#about">About</Link>
+          <Link href="#skills">Skills</Link>
           <Link href="#experience">Experience</Link>
           <Link href="#projects">Projects</Link>
           <Link href="#education">Education</Link>
